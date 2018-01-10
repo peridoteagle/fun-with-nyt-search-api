@@ -1,4 +1,4 @@
-# Use Keywords of Your Choice and the NYT Search API to Generate a Word Cloud and Topics
+# Use Keywords of Your Choice and the NYT Search API to Generate a Word Cloud and Topics in R
 
 This project is an extention of https://github.com/peridoteagle/want-to-be-a-ceo
 
