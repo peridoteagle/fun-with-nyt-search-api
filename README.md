@@ -360,6 +360,5 @@ The interactive topic tree shown below can be found at https://peridoteagle.gith
 * http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know for cleaning text in R and wordcloud fundamentals
 * https://www.tidytextmining.com/topicmodeling.html for most common terms, LDA, and most common documents by topic
 * https://adeelk93.github.io/collapsibleTree/ for a collapsible tree example
-* https://shiny.rstudio.com/articles/basics.html for RShiny basics
 * https://github.com/peridoteagle/markdown-cheatsheet for a template for this Markdown
 
