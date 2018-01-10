@@ -76,6 +76,9 @@ alldata <-  data.frame(urls,headline,kicker,byline,datepub,newsdesk,typematerial
 #Selecting only those from a specific typematerial (example: "News")
 relevantarticles <- subset(alldata,typematerial=="News")
 
+#If you don't want to subset:
+#relevantarticles <- alldata
+
 #Selecting the relevant urls for the for loop
 relevanturls <- as.character(relevantarticles$urls)
 
