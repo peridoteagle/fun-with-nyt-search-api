@@ -67,7 +67,7 @@ n <- 100
 nover10 <- ceiling(n/10)
 ```
 
-The loop below gets the following information for the articles: url, headline, kicker, section, publication date, news desk, the type of material, and the byline. Note that more information is available from the API. When information is missing, it is reported as NA.
+The loop below gets the following information for the articles: url, headline, kicker, publication date, news desk, the type of material, and the byline. Note that more information is available from the API. When information is missing, it is reported as NA.
 
 ```
 #Collecting relevant metadata
